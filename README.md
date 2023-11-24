@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @gusmaobrabo
-- 👀 I’m interested in Video-Games.
-- 🌱 I’m currently learning C# and Unity.
+- 👋 Hi, I’m @gusmaobrabo;
+- 👀 I’m interested in computer science;
+- 🌱 I’m currently learning System Analisys and Development;
